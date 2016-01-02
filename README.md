@@ -1,2 +1,2 @@
-# learning-go-webdev
-Learning Go Web Development - Examples and Datasets
+# Learning Go Web Development
+Examples and datasets for *Learning Go Web Development*
